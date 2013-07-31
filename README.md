@@ -11,7 +11,7 @@ IPAmj明朝はたくさんの文字内包していますが、今のところ出
 [IPAのサイト](http://mojikiban.ipa.go.jp/download.html)からフォントをダウンロードしてきてインストールします。
  
 ### フォントのインストール ###
-元情報は[文字情報基盤](http://mojikiban.ipa.go.jp/mjmojiichiran.html)のUnicodeを利用するので、からExcelファイルをダウンロードしてきて実行ファイルと同じ階層に置きます。
+元情報は[文字情報基盤](http://mojikiban.ipa.go.jp/mjmojiichiran.html)のUnicodeを利用するので、Excelファイルをダウンロードしてきて実行ファイルと同じ階層に置きます。
 
  
 関連情報
