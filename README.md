@@ -1,7 +1,27 @@
-font2png_for_ipamj
-==================
-開発環境:
-・Visual Studio 2008
+Font to PNG For Windows
+======================
+フォントの情報をPNGに変換します。  
+今のところ対応しているのはIPAmj明朝のみです。UCS実装のみ対応してます。
+ サロゲートペアも対応してると思います。
+ 
+使い方
+------
+### フォントのインストール ###
+[IPAのサイト](http://mojikiban.ipa.go.jp/download.html)からフォントをダウンロードしてきてインストールします。
+ 
+### フォントのインストール ###
+元情報は[文字情報基盤](http://mojikiban.ipa.go.jp/mjmojiichiran.html)のUnicodeを利用するので、からExcelファイルをダウンロードしてきて実行ファイルと同じ階層に置きます。
 
-言語：
-・C#
+ 
+関連情報
+--------
+### IPAのサイト
+1. [文字情報項目一覧](http://mojikiban.ipa.go.jp/guide.html)
+2. [文字情報基盤　文字情報一覧表](http://mojikiban.ipa.go.jp/mjmojiichiran.html)
+    
+ライセンス
+----------
+Copyright &copy; 2013 masterkeiji
+Licensed under the [Apache License, Version 2.0][Apache]
+ 
+[Apache]: http://www.apache.org/licenses/LICENSE-2.0
